@@ -5,7 +5,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/x265r8o52iirm9g2?svg=true)](https://ci.appveyor.com/project/hernanmd/projectframework)
 [![Coverage Status](https://coveralls.io/repos/github/hernanmd/ProjectFramework/badge.svg?branch=master)](https://coveralls.io/github/hernanmd/ProjectFramework?branch=master)
 
-# Table of Contents
+# Table of Contents 
 
 - [Description](#description)
 - [Installation](#installation)
