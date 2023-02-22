@@ -8,5 +8,5 @@ baseline: spec
 			self 
 				baselineDependencies: spec;
 				baselinePackages: spec;
-				baselineGroups: spec ]
+				baselineGroups: spec ] 
 	
